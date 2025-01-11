@@ -1,64 +1,62 @@
-2024-11-11 23:02:45,076 - INFO - ====== WebDriver manager ======
-2024-11-11 23:02:46,174 - INFO - Get LATEST chromedriver version for google-chrome
-2024-11-11 23:02:46,576 - INFO - Get LATEST chromedriver version for google-chrome
-2024-11-11 23:02:47,005 - INFO - Driver [C:\Users\THANH\.wdm\drivers\chromedriver\win64\130.0.6723.116\chromedriver-win32/chromedriver.exe] found in cache
-2024-11-11 23:02:49,730 - INFO - Trình duy\u1ec7t \u0111ã \u0111\u01b0\u1ee3c m\u1edf và \u0111i\u1ec1u h\u01b0\u1edbng \u0111\u1ebfn URL.
-2024-11-11 23:03:02,012 - ERROR - L\u1ed7i \u0111\u0103ng nh\u1eadp: Message: 
+2025-01-09 13:06:56,146 - INFO - ====== WebDriver manager ======
+2025-01-09 13:06:58,881 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-09 13:07:07,910 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-09 13:07:08,841 - INFO - Driver [C:\Users\THANH\.wdm\drivers\chromedriver\win64\131.0.6778.264\chromedriver-win32/chromedriver.exe] found in cache
+2025-01-09 13:07:10,891 - INFO - Trình duy\u1ec7t \u0111ã \u0111\u01b0\u1ee3c m\u1edf và \u0111i\u1ec1u h\u01b0\u1edbng \u0111\u1ebfn URL.
+2025-01-09 13:07:23,647 - ERROR - L\u1ed7i \u0111\u0103ng nh\u1eadp: Message: 
 Stacktrace:
-	GetHandleVerifier [0x00B1EBD3+24307]
-	(No symbol) [0x00AA8D74]
-	(No symbol) [0x0098C323]
-	(No symbol) [0x009CDC86]
-	(No symbol) [0x009CDECB]
-	(No symbol) [0x00A0B9F2]
-	(No symbol) [0x009EFED4]
-	(No symbol) [0x00A09579]
-	(No symbol) [0x009EFC26]
-	(No symbol) [0x009C219C]
-	(No symbol) [0x009C311D]
-	GetHandleVerifier [0x00DC8D93+2818227]
-	GetHandleVerifier [0x00E2542E+3196750]
-	GetHandleVerifier [0x00E1D9D2+3165426]
-	GetHandleVerifier [0x00BBDA70+675216]
-	(No symbol) [0x00AB1B3D]
-	(No symbol) [0x00AAEA18]
-	(No symbol) [0x00AAEBB5]
-	(No symbol) [0x00AA1640]
-	BaseThreadInitThunk [0x7655FCC9+25]
-	RtlGetAppContainerNamedObjectPath [0x7782809E+286]
-	RtlGetAppContainerNamedObjectPath [0x7782806E+238]
+	GetHandleVerifier [0x004CFD53+23747]
+	(No symbol) [0x00457D54]
+	(No symbol) [0x0032BE53]
+	(No symbol) [0x0036FCA6]
+	(No symbol) [0x0036FEEB]
+	(No symbol) [0x003AD852]
+	(No symbol) [0x00391E44]
+	(No symbol) [0x003AB41E]
+	(No symbol) [0x00391B96]
+	(No symbol) [0x00363F3C]
+	(No symbol) [0x00364EBD]
+	GetHandleVerifier [0x007AAC73+3017699]
+	GetHandleVerifier [0x007BB93B+3086507]
+	GetHandleVerifier [0x007B40F2+3055714]
+	GetHandleVerifier [0x00565AF0+637536]
+	(No symbol) [0x00460A5D]
+	(No symbol) [0x0045DA28]
+	(No symbol) [0x0045DBC5]
+	(No symbol) [0x004507F0]
+	BaseThreadInitThunk [0x762FFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B5809E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B5806E+238]
 
-2024-11-11 23:03:02,050 - INFO - \u0110ã nh\u1ea5n vào ph\u1ea7n t\u1eed 'X\u1eed lý b\u1ea5t th\u01b0\u1eddng SFC'!
-2024-11-11 23:03:07,127 - ERROR - Không th\u1ec3 tìm th\u1ea5y ho\u1eb7c click vào ph\u1ea7n t\u1eed: Message: 
+2025-01-09 13:07:23,781 - INFO - \u0110ã nh\u1ea5n vào ph\u1ea7n t\u1eed 'B\u1ea3o trì thi\u1ebft b\u1ecb'!
+2025-01-09 13:07:29,059 - ERROR - Không th\u1ec3 tìm th\u1ea5y ho\u1eb7c click vào ph\u1ea7n t\u1eed: Message: 
 Stacktrace:
-	GetHandleVerifier [0x00B1EBD3+24307]
-	(No symbol) [0x00AA8D74]
-	(No symbol) [0x0098C323]
-	(No symbol) [0x009CDC86]
-	(No symbol) [0x009CDECB]
-	(No symbol) [0x00A0B9F2]
-	(No symbol) [0x009EFED4]
-	(No symbol) [0x00A09579]
-	(No symbol) [0x009EFC26]
-	(No symbol) [0x009C219C]
-	(No symbol) [0x009C311D]
-	GetHandleVerifier [0x00DC8D93+2818227]
-	GetHandleVerifier [0x00E2542E+3196750]
-	GetHandleVerifier [0x00E1D9D2+3165426]
-	GetHandleVerifier [0x00BBDA70+675216]
-	(No symbol) [0x00AB1B3D]
-	(No symbol) [0x00AAEA18]
-	(No symbol) [0x00AAEBB5]
-	(No symbol) [0x00AA1640]
-	BaseThreadInitThunk [0x7655FCC9+25]
-	RtlGetAppContainerNamedObjectPath [0x7782809E+286]
-	RtlGetAppContainerNamedObjectPath [0x7782806E+238]
+	GetHandleVerifier [0x004CFD53+23747]
+	(No symbol) [0x00457D54]
+	(No symbol) [0x0032BE53]
+	(No symbol) [0x0036FCA6]
+	(No symbol) [0x0036FEEB]
+	(No symbol) [0x003AD852]
+	(No symbol) [0x00391E44]
+	(No symbol) [0x003AB41E]
+	(No symbol) [0x00391B96]
+	(No symbol) [0x00363F3C]
+	(No symbol) [0x00364EBD]
+	GetHandleVerifier [0x007AAC73+3017699]
+	GetHandleVerifier [0x007BB93B+3086507]
+	GetHandleVerifier [0x007B40F2+3055714]
+	GetHandleVerifier [0x00565AF0+637536]
+	(No symbol) [0x00460A5D]
+	(No symbol) [0x0045DA28]
+	(No symbol) [0x0045DBC5]
+	(No symbol) [0x004507F0]
+	BaseThreadInitThunk [0x762FFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B5809E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B5806E+238]
 
-2024-11-11 23:03:08,181 - INFO - \u0110ã nh\u1eadp mã \u0111\u01a1n: 9320017262
-2024-11-11 23:03:09,254 - INFO - \u0110ã nh\u1eadp text thành công: 030101000003554BB0000004HA3
+2025-01-09 13:07:31,558 - INFO - \u0110ã nh\u1eadp text thành công: FA0430AEF312617
 
-2024-11-11 23:03:10,326 - INFO - \u0110ã nh\u1eadp text thành công: 030101000003554BB0000005HA3
+2025-01-09 13:07:35,999 - INFO - \u0110ã nh\u1eadp text thành công: FA0430AEF312618
 
-2024-11-11 23:03:11,385 - INFO - \u0110ã nh\u1eadp text thành công: 030101000003554BB0000006HA3
-2024-11-11 23:03:17,453 - INFO - Quá trình \u0111ã hoàn thành.
-2024-11-11 23:03:19,516 - INFO - Trình duy\u1ec7t \u0111ã \u0111óng.
+2025-01-09 13:07:42,966 - INFO - Quá trình \u0111ã hoàn thành.
+2025-01-09 13:07:45,096 - INFO - Trình duy\u1ec7t \u0111ã \u0111óng.
